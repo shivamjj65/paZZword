@@ -1,0 +1,11 @@
+E:\SC\PROJECT\paZZword\bin\Debug\paZZword.exe.config
+E:\SC\PROJECT\paZZword\bin\Debug\paZZword.exe
+E:\SC\PROJECT\paZZword\bin\Debug\paZZword.pdb
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.paZZword.resources
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.Properties.Resources.resources
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.csproj.GenerateResource.cache
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.csproj.CoreCompileInputs.cache
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.exe
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.pdb
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.Home.resources
+E:\SC\PROJECT\paZZword\obj\Debug\paZZword.csproj.AssemblyReference.cache
