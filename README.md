@@ -1,1 +1,1 @@
-# paZZword
+# paZZword : Manage your Social Passwords !
